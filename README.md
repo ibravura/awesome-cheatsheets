@@ -135,5 +135,3 @@ You are more than welcome to contribute and build your own cheat sheet for your 
 <p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
 </a></p>
-
-##this is awesome
